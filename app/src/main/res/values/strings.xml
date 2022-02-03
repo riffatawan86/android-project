@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task Reminder System</string>
+    <string name="date_time">Date and Time</string>
+    <string name="rate_app">
+        https://play.google.com/store/apps/details?id=com.test.project.samplelocation
+    </string>
+    <string name="map_api_key">AIzaSyBB8oDID49jtnbEYr623FkMAEUB4rPuf2A</string>
+    <string name="enable_date_time"><![CDATA[Enable Date & Time]]></string>
+</resources>
